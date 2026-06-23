@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+backend/venv/
+venv/
+env/
+
+# Node
+frontend/node_modules/
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment
+.env
+*.env.local
+
+# Logs
+*.log
+
+# Database (local only, use database/ for backup)
+db.sqlite3
+
+# Media (user uploads, keep default media)
+# backend/media/
+
+# Frontend build (keep dist/ for deployment)
+# frontend/dist/
