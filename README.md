@@ -14,7 +14,7 @@
 ![房间详情](screenshots/room_detail.png)
 
 ### 后台管理 - 房间管理
-![后台房间管理](screenshots/admin_rooms.png)
+![后台管理](screenshots/admin.png)
 
 ## 技术栈
 
