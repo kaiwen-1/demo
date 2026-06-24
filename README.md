@@ -2,6 +2,20 @@
 
 一个现代化的酒店管理系统平台，采用前后端分离架构开发。
 
+## 项目截图
+
+### 前台首页
+![前台首页](screenshots/home.png)
+
+### 前台登录
+![前台登录](screenshots/login.png)
+
+### 房间详情
+![房间详情](screenshots/room_detail.png)
+
+### 后台管理 - 房间管理
+![后台房间管理](screenshots/admin_rooms.png)
+
 ## 技术栈
 
 ### 后端
