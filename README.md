@@ -84,16 +84,6 @@ npm install
 npm run dev
 ```
 
-## 访问地址
-
-| 服务 | 地址 |
-|------|------|
-| 前端首页 | http://localhost:3000 |
-| 后台管理 | http://localhost:3000/admin |
-| 后端API | http://127.0.0.1:8000/api/ |
-| API文档 | http://127.0.0.1:8000/api/docs/ |
-| Django管理后台 | http://127.0.0.1:8000/admin/ |
-
 ## 演示账户
 
 | 角色 | 用户名 | 密码 |
